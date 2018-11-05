@@ -1,3 +1,3 @@
 Create a new file and now changing it
 
-Changed first file in second way 
+Changed first file in second way causing conflict
