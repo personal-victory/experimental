@@ -1,1 +1,3 @@
 Create a new second file
+
+Change second file in a way that creates a conflct
